@@ -8,4 +8,4 @@
 
 Contributors
 -------------------
-* Li Yi (denverdino@gmail.com)
+* firesh (wangshaobo@me.com)
