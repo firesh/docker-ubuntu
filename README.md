@@ -7,5 +7,5 @@
 - 更改软件源，使用阿里云镜像
 
 Contributors
--------------------
+------------------
 * firesh (wangshaobo@me.com)
